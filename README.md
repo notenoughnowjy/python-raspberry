@@ -105,9 +105,7 @@ sudo cgps -s
 cgps -s
 ```
 
-- `referenced :`
-
-[](https://github.com/FranzTscharf/Python-NEO-6M-GPS-Raspberry-Pi/blob/master/readme.md)
+- `referenced :` https://github.com/FranzTscharf/Python-NEO-6M-GPS-Raspberry-Pi/blob/master/readme.md
 
 ```python
 import serial
